@@ -53,14 +53,7 @@ function fetchData(url) {
 
 function displayData(dataToDisplay) {
 	console.log(dataToDisplay);
-    // // Accéder aux clés et valeurs de l'objet JSON
-	// for (let key in dataToDisplay) {
-	// 	let value = dataToDisplay[key];
-	// 	// Créer les éléments et les afficher dans le DOM
-	// 	const p = document.createElement("p");
-	// 	p.textContent = `${key} : ${value}`;
-	// 	document.body.appendChild(p);
-	// }
+	
 	// Parcourir les albums et afficher leurs détails
 	dataToDisplay.forEach(function(albumData) {
 		let albumGroup = document.createElement('ul');
