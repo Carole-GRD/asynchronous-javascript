@@ -1,0 +1,26 @@
+[
+    {
+        "album_1": {
+            "titre": "Abacab",
+            "groupe": "Genesis",
+            "annee": 1981,
+            "genre": "Rock"
+        }
+    },
+    {
+        "album_2": {
+            "titre": "Dark Side of the Moon",
+            "groupe": "Pink Floyd",
+            "annee": 1973,
+            "genre": "Progressive Rock"
+        }
+    },
+    {
+        "album_3": {
+            "titre": "Thriller",
+            "groupe": "Michael Jackson",
+            "annee": 1982,
+            "genre": "Pop"
+        }
+    }
+]
